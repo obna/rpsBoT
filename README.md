@@ -1,4 +1,5 @@
-# Select Bot
+# Select Bot (DOCUMENTATION)
+Waiting for Discord approval! Check back here for the link to Discord server invite.
 
 ## **Add the *Select Bot* to your channel.**
 ### Are you debating who goes next?
